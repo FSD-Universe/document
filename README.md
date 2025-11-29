@@ -642,6 +642,6 @@ Copyright © 2025 Half_nothing
 
 [Issue]: https://github.com/FSD-Universe/SimpleFSD/issues/new?template=bug_report.yaml
 
-[HttpApiDocs]: https://api.fsd.half-nothing.cn/
+[HttpApiDocs]: https://api.half-nothing.cn/
 
-[WIKI]: https://docs.fsd.half-nothing.cn/
+[WIKI]: https://docs.half-nothing.cn/

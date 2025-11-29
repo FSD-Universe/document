@@ -12,4 +12,4 @@
   * [FSD协议](/technical/fsd.md)
   * [VATSIM协议](/technical/vatsim.md)
   * [语音服务器](/technical/voice.md)
-* [API文档](https://api.fsd.half-nothing.cn)
+* [API文档](https://api.half-nothing.cn)
