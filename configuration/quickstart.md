@@ -20,13 +20,13 @@ ii. 直接运行服务端可执行文件, 服务器会使用默认配置运行
 ![](../image/quickstart/connection_lost.png)
 
 那大概来说是因为您当前网络无法访问到github或者访问速度太慢  
-此时您可以加上命令行参数`-download_prefix='https://gh-proxy.com/https://raw.githubusercontent.com/Flyleague-Collection/SimpleFSD/refs/heads/main'`  
+此时您可以加上命令行参数`-download_prefix='https://gh-proxy.com/https://raw.githubusercontent.com/FSD-Universe/SimpleFSD/refs/heads/main'`  
 详见[命令行参数#download_prefix](/configuration/command_line.md#download_prefix)  
 此时不出意外的话就可以正常运行了  
 资源文件仅需首次运行时下载一次  
 ![](../image/quickstart/run_second.png)  
 当您看到`FSD Server Listen On ...`的时候, 代表服务器成功启动
 
-[Release]: https://www.github.com/Flyleague-Collection/SimpleFSD/releases/latest
+[Release]: https://www.github.com/FSD-Universe/SimpleFSD/releases/latest
 
-[Action]: https://github.com/Flyleague-Collection/SimpleFSD/actions/workflows/go-build.yml
+[Action]: https://github.com/FSD-Universe/SimpleFSD/actions/workflows/go-build.yml

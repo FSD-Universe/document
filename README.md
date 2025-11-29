@@ -622,25 +622,25 @@ Copyright © 2025 Half_nothing
 
 在[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)中查阅
 
-[ReleaseCard]: https://img.shields.io/github/v/release/Flyleague-Collection/SimpleFSD?style=for-the-badge&logo=github
+[ReleaseCard]: https://img.shields.io/github/v/release/FSD-Universe/SimpleFSD?style=for-the-badge&logo=github
 
-[ReleaseDataCard]: https://img.shields.io/github/release-date/Flyleague-Collection/SimpleFSD?display_date=published_at&style=for-the-badge&logo=github
+[ReleaseDataCard]: https://img.shields.io/github/release-date/FSD-Universe/SimpleFSD?display_date=published_at&style=for-the-badge&logo=github
 
-[LastCommitCard]: https://img.shields.io/github/last-commit/Flyleague-Collection/SimpleFSD?display_timestamp=committer&style=for-the-badge&logo=github
+[LastCommitCard]: https://img.shields.io/github/last-commit/FSD-Universe/SimpleFSD?display_timestamp=committer&style=for-the-badge&logo=github
 
-[BuildStateCard]: https://img.shields.io/github/actions/workflow/status/Flyleague-Collection/SimpleFSD/go-build.yml?style=for-the-badge&logo=github&label=Full-Build
+[BuildStateCard]: https://img.shields.io/github/actions/workflow/status/FSD-Universe/SimpleFSD/go-build.yml?style=for-the-badge&logo=github&label=Full-Build
 
-[Lite]: https://github.com/Flyleague-Collection/SimpleFSD-Lite
+[Lite]: https://github.com/FSD-Universe/SimpleFSD-Lite
 
-[ProjectLanguageCard]: https://img.shields.io/github/languages/top/Flyleague-Collection/SimpleFSD?style=for-the-badge&logo=github
+[ProjectLanguageCard]: https://img.shields.io/github/languages/top/FSD-Universe/SimpleFSD?style=for-the-badge&logo=github
 
 [ProjectLicense]: https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github
 
-[Release]: https://www.github.com/Flyleague-Collection/SimpleFSD/releases/latest
+[Release]: https://www.github.com/FSD-Universe/SimpleFSD/releases/latest
 
-[Action]: https://github.com/Flyleague-Collection/SimpleFSD/actions/workflows/go-build.yml
+[Action]: https://github.com/FSD-Universe/SimpleFSD/actions/workflows/go-build.yml
 
-[Issue]: https://github.com/Flyleague-Collection/SimpleFSD/issues/new?template=bug_report.yaml
+[Issue]: https://github.com/FSD-Universe/SimpleFSD/issues/new?template=bug_report.yaml
 
 [HttpApiDocs]: https://api.fsd.half-nothing.cn/
 

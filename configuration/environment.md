@@ -97,10 +97,10 @@
 资源文件下载前缀  
 当FSD发现缺失运行文件时  
 会通过此选项拼接文件路径下载文件  
-默认路径为`https://raw.githubusercontent.com/Flyleague-Collection/SimpleFSD/refs/heads/main`  
+默认路径为`https://raw.githubusercontent.com/FSD-Universe/SimpleFSD/refs/heads/main`  
 如果您运行FSD的网络环境无法连接GITHUB或者访问速度过慢  
 您可以设置此选项为
-`https://gh-proxy.com/https://raw.githubusercontent.com/Flyleague-Collection/SimpleFSD/refs/heads/main`  
+`https://gh-proxy.com/https://raw.githubusercontent.com/FSD-Universe/SimpleFSD/refs/heads/main`  
 友链：[ghproxy](https://gh-proxy.com/)
 
 ## METAR_CACHE_CLEAN_INTERVAL
